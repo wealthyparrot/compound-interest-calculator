@@ -1,0 +1,16 @@
+@import "tailwindcss";
+@config "../tailwind.config.js";
+
+@layer base {
+  :root {
+    font-family: Inter, system-ui, sans-serif;
+  }
+
+  :root[data-embedded] {
+    background-color: transparent;
+  }
+
+  :root[data-embedded] #root {
+    min-height: auto;
+  }
+}
