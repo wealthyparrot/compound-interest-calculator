@@ -9,6 +9,8 @@ A modern, open-source compound interest calculator built with React, TypeScript,
 
 **[Live Demo](https://wealthyparrot.github.io/compound-interest-calculator/)** | **[Wealthy Parrot Blog](https://www.wealthyparrot.com/)**
 
+![Compound Interest Calculator screenshot](docs/screenshot.png)
+
 ## Features
 
 - **Multiple Compounding Frequencies:** Annually, semi-annually, quarterly, monthly, or daily
