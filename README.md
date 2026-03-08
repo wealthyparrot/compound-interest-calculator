@@ -1,7 +1,5 @@
-<picture>
-  <img alt="Wealthy Parrot" src="public/logo-dark.png#gh-dark-mode-only" width="400">
-  <img alt="Wealthy Parrot" src="public/logo-light.png#gh-light-mode-only" width="400">
-</picture>
+<img alt="Wealthy Parrot" src="public/logo-dark.png#gh-dark-mode-only" width="400">
+<img alt="Wealthy Parrot" src="public/logo-light.png#gh-light-mode-only" width="400">
 
 # Compound Interest Calculator
 
