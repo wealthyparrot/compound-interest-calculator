@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="public/logo-light.png" alt="Wealthy Parrot Logo" width="100" height="100">
+  <img src="public/logo-light.png" alt="Wealthy Parrot Logo" width="150" height="150">
 
   # Compound Interest Calculator
 
