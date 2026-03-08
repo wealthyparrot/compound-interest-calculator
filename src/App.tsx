@@ -34,15 +34,8 @@ function App() {
       {!isEmbedded && (
         <header className="bg-white shadow-sm">
           <div className="max-w-7xl mx-auto px-4 py-4">
-            <div className="flex items-center gap-4 mb-2">
-              <img
-                src="/compound-interest-calculator/logo-light.png"
-                alt="Wealthy Parrot Logo"
-                className="h-10 w-10"
-              />
-              <h1 className="text-3xl font-bold text-gray-900">Compound Interest Calculator</h1>
-            </div>
-            <p className="text-gray-600 ml-14">
+            <h1 className="text-3xl font-bold text-gray-900">Compound Interest Calculator</h1>
+            <p className="text-gray-600 mt-1">
               See how your investments grow with compound interest
             </p>
           </div>
