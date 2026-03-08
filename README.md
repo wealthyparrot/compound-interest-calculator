@@ -1,12 +1,14 @@
-<div align="center">
-  <img src="public/logo-light.png" alt="Wealthy Parrot Logo" width="150" height="150">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="public/logo-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="public/logo-light.png">
+  <img alt="Wealthy Parrot" src="public/logo-light.png" width="400">
+</picture>
 
-  # Compound Interest Calculator
+# Compound Interest Calculator
 
-  A modern, open-source compound interest calculator built with React, TypeScript, and Vite. Calculate investment growth with support for multiple compounding frequencies, recurring contributions, and 6 currencies.
-</div>
+A modern, open-source compound interest calculator built with React, TypeScript, and Vite. Calculate investment growth with support for multiple compounding frequencies, recurring contributions, and 6 currencies.
 
-**Live Demo:** [https://wealthyparrot.github.io/compound-interest-calculator/](https://wealthyparrot.github.io/compound-interest-calculator/)
+**[Live Demo](https://wealthyparrot.github.io/compound-interest-calculator/)** | **[Wealthy Parrot Blog](https://www.wealthyparrot.com/)**
 
 ## Features
 
